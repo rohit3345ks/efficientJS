@@ -1,0 +1,83 @@
+.head-text {
+  position: relative;
+  margin: auto;
+  font-size: 60px;
+  text-align: center;
+  font-family: "Roboto", sans-serif;
+  margin-top: 100px;
+}
+
+.btn,
+.btn-check, .btn-r {
+  box-sizing: border-box;
+  font-family: "Roboto", sans-serif;
+  margin: 0;
+  overflow: visible;
+  padding: 6px 12px;
+  font-size: 20px;
+  white-space: nowrap;
+  cursor: pointer;
+  user-select: none;
+  background-repeat: repeat-x;
+  background-position: -1px -1px;
+  background-size: 110% 110%;
+  border: 1px solid rgba(27, 31, 35, 0.2);
+  border-radius: 0.25em;
+  -webkit-appearance: none;
+  color: #fff;
+  background-color: #28a745;
+  background-image: linear-gradient(-180deg, #34d058, #28a745 90%);
+  text-align: center;
+}
+
+.btn {
+  margin-top: 20px;
+  display: flex;
+  position: absolute;
+  top: 250px;
+  left: 40%;
+}
+
+.btn-r {
+  margin-top: 20px;
+  display: flex;
+  position: absolute;
+  top: 250px;
+  left: 50%;
+}
+
+#box {
+  height: 100px;
+  width: 100px;
+  background-color: rgb(253, 101, 0);
+  display: flex;
+  position: absolute;
+  top: 70px;
+  right: 10%;
+  transition: width 0.5s;
+}
+
+.check-div {
+  display: flex;
+  height: 38px;
+  position: relative;
+  left: 30%;
+  top: 200px;
+  font-family: "Roboto", sans-serif;
+}
+
+.el-1,
+.el-2,
+.el-3 {
+  margin-left: 37.5px;
+}
+
+.el-1 {
+  border-radius: 6px;
+  border: 2px solid red;
+  text-align: center;
+}
+
+.el-3 {
+  color: blue;
+}
