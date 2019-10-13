@@ -181,7 +181,7 @@ $(".btn.button #idSelector .realbutton").click(function() {
 });
 
 // innerText
-$("#demo").text();
+$("#demo .heyThere").text();
 
 // innerHtml
 $("#demo").html();
@@ -196,8 +196,9 @@ $("#demo").html("Hey <em>There</em>");
 $("#link").attr("href");
 
 // Setting attribute
-$("#link").attr("href", "https://htmlg.com");
+$("#link").attr("href", "https://google.com");
 
 // Append
 $(".demo").append("<em>Hey there!</em>");
+
 console.log(transpiled);

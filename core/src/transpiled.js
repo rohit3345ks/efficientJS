@@ -11,7 +11,7 @@ document
   .addEventListener("click", function() {
     console.log("hey there");
   });
-document.querySelector("#demo").innerText;
+document.querySelector("#demo .heyThere").innerText;
 document.querySelector("#demo").innerHTML;
 document.querySelector("#demo").value;
 document.querySelector("#demo").innerHTML("Hey <em>There</em>");
