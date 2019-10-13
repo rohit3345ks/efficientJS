@@ -17,6 +17,6 @@ document.querySelector("#demo").value;
 document.querySelector("#demo").innerHTML("Hey <em>There</em>");
 document.querySelector("#link").getAttribute("href");
 
-document.querySelector("#link").setAttribute("href", "https://htmlg.com");
+document.querySelector("#link").setAttribute("href", "https://google.com");
 
 document.querySelector(".demo").innerHTML += "<em>Hey there!</em>";

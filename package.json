@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/rokibulislaam/efficientJS/issues"
   },
-  "homepage": "https://github.com/rokibulislaam/efficientJS#readme"
+  "homepage": "https://github.com/rokibulislaam/efficientJS#readme",
+  "devDependencies": {
+    "husky": "^3.0.9"
+  }
 }

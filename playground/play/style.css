@@ -1,0 +1,16 @@
+.navbar {
+    margin-bottom: 40px;;
+}
+
+.card {
+    min-height: 366px;;
+}
+
+.text-box {
+    border-color: red;
+    background-color: rgb(248, 248, 248);
+}
+
+.card-2 {
+    padding-left: 12px;;
+}
