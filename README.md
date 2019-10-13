@@ -23,7 +23,7 @@ This developer tools which transpiles jQuery code into basic Vanilla JavaScript 
 
 With jQuery | Without jQuery
 ----------- | --------------
-[Demo jQuery](./playground/demo-jquery/index.html) | [Demo Vanilla](./playground/demo-vanilla/index.html)
+[Demo jQuery](https://github.com/rokibulislaam/efficientJS/blob/master/playground/demo-jquery/index.html) | [Demo Vanilla](https://github.com/rokibulislaam/efficientJS/blob/master/playground/demo-vanilla/index.html)
 
 #### The overall performances are listed below
 
