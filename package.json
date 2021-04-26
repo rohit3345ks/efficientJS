@@ -18,5 +18,8 @@
   "homepage": "https://github.com/rokibulislaam/efficientJS#readme",
   "devDependencies": {
     "husky": "^3.0.9"
+  },
+  "dependencies": {
+    "prismjs": "^1.23.0"
   }
 }
