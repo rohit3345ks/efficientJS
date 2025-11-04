@@ -38,4 +38,4 @@ System: 36ms | System: 29ms
 
 ## Contribution
 
-Anyone who wants to contribute, they are heartily welcomed.
+Anyone who wants to contribute, they are heartily welcomed. Thanks
